@@ -1,0 +1,30 @@
+body{
+    background: linear-gradient(#9F3EE7,#2D0070);
+}
+header{
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    gap: 50%;
+}
+.nav-left{
+    margin-left: 150px;
+}
+.nav-right{
+    margin-right: 150px;    
+}
+.nav-right ul{
+    display: flex;
+    list-style: none;
+    color: white;
+    gap: 50px;
+}
+.nav-right li{
+    display: inline;
+  
+}
+.nav-right a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
