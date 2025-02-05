@@ -28,3 +28,20 @@ header{
     color: white;
     font-weight: bold;
 }
+.hero-section{
+    display: flex;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.hero-left h1{
+    font-size: 87px;
+}
+.explore{
+    border-radius: 6px;
+    border: 2px solid;
+    background-color: #9F3EE7;
+}
+.hero-right img{
+    width: 525px;
+    height: 544px;
+}
